@@ -1,0 +1,28 @@
+/*head */
+* {
+  font-family: "Roboto";
+  font-size: 22px;
+}
+h1 {
+  color: rgb(92, 14, 92);
+}
+
+#test {
+  background-color: blueviolet;
+}
+
+/*section */
+.information {
+  color: blueviolet;
+}
+.duré {
+  text-decoration: underline;
+  font-weight: bold;
+}
+.ul {
+  color: coral;
+}
+.table {
+  color: blueviolet;
+}
+.test;
